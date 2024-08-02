@@ -1,0 +1,187 @@
+*{
+    
+        font-family: "Noto Sans", sans-serif;
+        font-optical-sizing: auto;
+       
+      
+}
+
+
+nav ul{
+    display:flex ;
+    justify-content:end ;
+    
+
+}
+nav ul li a{
+    margin: 30px;
+    color: black;
+    font-size: larger;
+    text-decoration: none;
+
+    
+}
+nav{
+    height: 150px;
+    position:sticky;
+    top:10;
+}
+.you{
+    height: 80px
+}
+nav ul li a:hover{
+    scale: 1.25;
+    
+    text-decoration: underline;
+  }
+  .banner{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/6291604274bc7d0c02445423/2bfc701c-a23a-4ee1-8cd5-ae9c1aa9e12d/Homepage-edit-First-Image.jpg?format=original');
+    height: 720px;
+  }
+  .write{
+    position: absolute;
+    bottom: 30%;
+    left: 10%;
+    
+  }
+  .ii{
+    margin-top:20px ;
+  }
+  .row{
+    display: flex;
+    justify-content: center;
+    margin-left: 5%;
+    margin-top: 7%;
+    height: 350px;
+    background-color: white;
+  }
+  .tt{
+    margin-left: 44px;
+    
+    
+  }
+  .ji{
+    margin-left: 20%;
+  }
+  .oo{
+    margin-left: 10%;
+  }
+  .vv{
+    margin-left: 45px;
+  }
+  .nn{
+    margin-left: 65px;
+  }
+  .logo{
+    margin-bottom: 20px;
+
+  }
+  .qq{
+    width: 810px;
+    height: 500px;
+  }
+  .dm{
+    display:flex;
+    justify-content: center;
+  }
+  .qa{
+    margin-left: 60px;
+    margin-top: 100px;
+  }
+  .yaseen{
+    display: flex;
+    justify-content: center;
+  }
+  .bb{
+    width: 825px;
+    height: 500px;
+
+  }
+  .thanha{
+    display: flex;
+    justify-content: center;
+  }
+  .easy{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+  }
+  .fg{
+    text-align: center;
+    text-decoration: underline;
+  }
+  .bmw{
+    display: flex;
+    justify-content: center;
+  }
+ .bs{
+    width: 350px;
+    height: 350px;
+ }
+ .rt{
+    width: 350px;
+    height: 350px;
+    
+
+ }
+ .cv
+    {
+        width: 350px;
+        height: 350px;
+        
+
+ }
+.ramos{
+    margin-left: 70px;
+    margin-top: 30px;
+    margin: 70px;
+}
+.dc{
+    text-decoration: none;
+    margin-left: 40%;
+    color: black;
+    font-size: large;
+}
+.lk{
+    margin-left: 22%;
+}
+.hn{
+    margin-left:35%;
+}
+.ui{
+    margin-left: 23%;
+}
+.lp{
+    background-color: gray;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.kl{
+    margin-top: 40px;
+}
+.hj{
+    margin-left:40%;
+    width: 160px;
+    height: 50px;
+
+    
+
+}
+.bh{
+    margin: 40px;
+}
+.ty{
+    margin-left: 90px;
+    
+    
+
+}
+.aq{
+    height: 50px;
+    
+}
+.navbar{
+  position: sticky;
+  top:0;
+}
